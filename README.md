@@ -8,10 +8,18 @@
 - 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- 😄 Pronouns: **Coder** and **Kind Hearted**
 - :bulb: Occasionally I do participate in **Leetcode**
+- 🧑‍💻 Tech I work on :
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Logo" width="55"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="55" height="55"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="55" height="55"/>
+      <img src="https://www.saasworthy.com/product-alternative/24470/altium-designer-2020-05-12.svg" alt="altium" width="55" height="55"/>
+</p>
 <!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) -->
-- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.-->
+<!--- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.-->
 <!--- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)-->
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
