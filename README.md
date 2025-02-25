@@ -3,12 +3,20 @@
 <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e4753ypsybsljdfki5cxiv6gyo73n5g1ys4uddub28j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="55" /> **About Me:**
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85" /> About Me: -->
 
-- 🎓 I'm a **graduated electronics engineer** with a strong passion for **Embedded Systems** 🤖  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🤔 I’m looking for help with **Data Structures and Algorithms** 😭.
-- 💬 Ask me about anything, I am happy to help!.
-- 😄 Pronouns: **Coder** and **Kind-Hearted**.
-- 💡 Occasionally, I participate in **LeetCode challenges**.
-You can find my open-source hardware and software projects here, mostly consisting of hobby and educational projects. Feel free to explore, test them out, and submit an issue if you find something that needs to be fixed or improved!
+<ul>
+    <li>🎓 I'm a <strong>graduate electronics engineer</strong> with a strong passion for <strong>Embedded Systems</strong> 🤖 
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    </li>
+    <li>🤔 I’m looking for help with <strong>Data Structures and Algorithms</strong> 😭.</li>
+    <li>💬 Ask me about anything—I'm happy to help!</li>
+    <li>😄 Pronouns: <strong>Coder</strong> and <strong>Kind-hearted</strong>.</li>
+    <li>💡 Occasionally, I participate in <strong>LeetCode challenges</strong>.</li>
+</ul>
+
+<p>
+    You can find my open-source hardware and software projects here, mostly consisting of hobby and educational projects. 
+    Feel free to explore, test them out, and submit an issue if you find something that needs to be fixed or improved!
+</p>
 ---
 
 ### **🧑‍💻 Tech I Work On**
