@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1668802256/62708/greetings.gif?1668802256" width="20">, I'm Andrew</h1>
+<h1 align="center">Hi visitor <img src="https://emojis.slackmojis.com/emojis/images/1668802256/62708/greetings.gif?1668802256" width="20">, I'm Andrew</h1>
 
 <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e4753ypsybsljdfki5cxiv6gyo73n5g1ys4uddub28j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="55" /> **About Me:**
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85" /> About Me: -->
@@ -8,6 +8,7 @@
 - 💬 Ask me about anything, I am happy to help!.
 - 😄 Pronouns: **Coder** and **Kind-Hearted**.
 - 💡 Occasionally, I participate in **LeetCode challenges**.
+You can find my open-source hardware and software projects here, mostly comprising hobby and educational projects. Take a look, test them out and feel free to submit an issue if you think something needs to be fixed or improved.
 ---
 
 ### **🧑‍💻 Tech I Work On**
