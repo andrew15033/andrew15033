@@ -15,7 +15,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Logo" width="55"/>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="55" height="55"/>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.saasworthy.com/product-alternative/24470/altium-designer-2020-05-12.svg" alt="altium" width="55" height="55"/>
 </p>
 
 
