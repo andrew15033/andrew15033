@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1668802256/62708/greetings.gif?1668802256" width="20">, I'm Andrew</h1>
-<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e4753ypsybsljdfki5cxiv6gyo73n5g1ys4uddub28j&ep=v1_gifs_search&rid=giphy.gif&ct=g" align='left'>
+<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e4753ypsybsljdfki5cxiv6gyo73n5g1ys4uddub28j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="55" align='left'>
 <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e4753ypsybsljdfki5cxiv6gyo73n5g1ys4uddub28j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="55" /> About Me:
 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85" /> About Me:-->
 - :school: I'm a graduated electronics engineer with a strong passion for anything related to <b>Embedded Systems</b> 🤖
