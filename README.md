@@ -20,7 +20,7 @@
 
 ---
 
-### **🧑‍💻 Tech I Work On**
+### ** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech I Work On**
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Logo" width="55"/>
