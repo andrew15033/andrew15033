@@ -19,7 +19,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Logo" width="55"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C Logo" width="55" height="55"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="55" height="55"/>
-![Altium Designer Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Altium_Designer_Logo.svg)
 </p>
 
 <!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) -->
