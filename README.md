@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1668802256/62708/greetings.gif?1668802256" width="20">, I'm Andrew</h1>
 <h3 align="center">An electronics engineer with a strong passion for anything related to <b>Embedded Systems 🤖</b></p></h3>
-
+<h3 align="center">You can find my open-source hardware and software projects here, mostly comprising hobby and educational projects. Take a look, test them out and feel free to submit an issue if you think something needs to be fixed or improved.</p></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew15033&label=Profile%20views&color=0e75b6&style=flat" alt="andrew15033" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
