@@ -3,8 +3,7 @@
 <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e4753ypsybsljdfki5cxiv6gyo73n5g1ys4uddub28j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="55" /> **About Me:**
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85" /> About Me: -->
 
-- 🎓 I'm a **graduated electronics engineer** with a strong passion for **Embedded Systems** 🤖  
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🎓 I'm a **graduated electronics engineer** with a strong passion for **Embedded Systems** 🤖  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 😐 I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently working with **Microservices, AWS, .NET Core**
 - 🤔 I’m looking for help with **Data Structures and Algorithms** 😭
