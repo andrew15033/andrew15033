@@ -4,8 +4,7 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85" /> About Me: -->
 
 <ul>
-    <li>🎓 I'm a <strong>graduate electronics engineer</strong> with a strong passion for <strong>Embedded Systems</strong> 🤖 
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <li>🎓 I'm a <strong>graduate electronics engineer</strong> with a strong passion for <strong>Embedded Systems</strong> 🤖.
     </li>
     <li>🤔 I’m looking for help with <strong>Data Structures and Algorithms</strong> 😭.</li>
     <li>💬 Ask me about anything—I'm happy to help!</li>
