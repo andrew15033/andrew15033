@@ -1,22 +1,29 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1668802256/62708/greetings.gif?1668802256" width="20">, I'm Andrew</h1>
-<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e4753ypsybsljdfki5cxiv6gyo73n5g1ys4uddub28j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="55" /> About Me:
-<!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85" /> About Me:-->
-- :school: I'm a graduated electronics engineer with a strong passion for anything related to <b>Embedded Systems</b> 🤖
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </a>
-- :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder** and **Kind Hearted**
-- :bulb: Occasionally I do participate in **Leetcode**
-- 🧑‍💻 Tech I work on :
+
+<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e4753ypsybsljdfki5cxiv6gyo73n5g1ys4uddub28j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="55" /> **About Me:**
+
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85" /> About Me: -->
+
+- 🎓 I'm a **graduated electronics engineer** with a strong passion for **Embedded Systems** 🤖  
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 😐 I have a **love/hate** relationship with **Programming**
+- 🌱 I’m currently working with **Microservices, AWS, .NET Core**
+- 🤔 I’m looking for help with **Data Structures and Algorithms** 😭
+- 💬 **Ask me about anything**, I am happy to help!
+- 😄 **Pronouns:** **Coder** and **Kind-Hearted**
+- 💡 Occasionally, I participate in **LeetCode challenges**
+
+---
+
+### **🧑‍💻 Tech I Work On**
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Logo" width="55"/>
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="55" height="55"/>
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="55" height="55"/>
-      <img src="https://www.saasworthy.com/product-alternative/24470/altium-designer-2020-05-12.svg" alt="altium" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Logo" width="55"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C Logo" width="55" height="55"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="55" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Altium_Designer_Logo.svg/2048px-Altium_Designer_Logo.svg.png" alt="Altium Designer" width="55" height="55"/>
 </p>
+
 <!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) -->
 <!--- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.-->
 <!--- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)-->
