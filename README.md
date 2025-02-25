@@ -17,6 +17,7 @@
     You can find my open-source hardware and software projects here, mostly consisting of hobby and educational projects. 
     Feel free to explore, test them out, and submit an issue if you find something that needs to be fixed or improved!
 </p>
+
 ---
 
 ### **🧑‍💻 Tech I Work On**
