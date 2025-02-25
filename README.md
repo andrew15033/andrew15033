@@ -1,4 +1,4 @@
-<h1 align="center">Hi <p>Hi! <img src="https://emojis.slackmojis.com/emojis/images/1668802256/62708/greetings.gif?1668802256" width="20"/></p>, I'm Andrew</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1668802256/62708/greetings.gif?1668802256" width="20"/, I'm Andrew</h1>
 <h3 align="center">A passionate graduate electronics engineer in Melbourne</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew15033&label=Profile%20views&color=0e75b6&style=flat" alt="andrew15033" /> </p>
