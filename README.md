@@ -8,6 +8,7 @@
 - 💬 Ask me about anything, I am happy to help!.
 - 😄 Pronouns: **Coder** and **Kind-Hearted**.
 - 💡 Occasionally, I participate in **LeetCode challenges**.
+- 
 You can find my open-source hardware and software projects here, mostly comprising hobby and educational projects. Take a look, test them out and feel free to submit an issue if you think something needs to be fixed or improved.
 ---
 
