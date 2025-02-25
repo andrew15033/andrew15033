@@ -4,7 +4,6 @@
 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85" /> About Me:-->
 - :school: I'm a graduated electronics engineer with a strong passion for anything related to <b>Embedded Systems</b> 🤖
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </a>
-<!-- - 🔭 I’m currently working on  **Backend Development**-->
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
