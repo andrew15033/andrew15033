@@ -12,7 +12,7 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.svgrepo.com/show/331782/visual-studio.svg" alt="Visual Studio Logo" width="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="C++" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
