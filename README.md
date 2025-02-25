@@ -2,6 +2,21 @@
 
 <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e4753ypsybsljdfki5cxiv6gyo73n5g1ys4uddub28j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="55" /> About Me:
 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85" /> About Me:-->
+- :school: I'm a graduated electronics engineer with a strong passion for anything related to <b>Embedded Systems</b> 🤖
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </a>
+<!-- - 🔭 I’m currently working on  **Backend Development**-->
+- :neutral_face: I have a **love/hate** relationship with **Programming**
+- 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core**
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- :bulb: Occasionally I do participate in **Leetcode**
+<!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) -->
+- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.-->
+<!--- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)-->
+<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
+
+
 
 - 🏦 I'm a graduated electronics engineer with a strong passion for anything related to <b>Embedded Systems</b> 🤖
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -10,6 +25,8 @@
 - 👯 We can connect to play some games of Badminton ♟.
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
+
+
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Logo" width="55"/>
